@@ -1,0 +1,12 @@
+<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="five-star-badge-svgrepo-com 1" clip-path="url(#clip0_1755_13994)">
+<path id="Vector" d="M24 0.5H0V24.5H24V0.5Z" fill="white" fill-opacity="0.01"/>
+<path id="Vector_2" d="M11.5516 10.9085C11.735 10.5368 12.2649 10.5368 12.4483 10.9085L13.9409 13.9327C14.0137 14.0803 14.1545 14.1826 14.3174 14.2062L17.6548 14.6912C18.0649 14.7508 18.2287 15.2548 17.9319 15.544L15.5169 17.8981C15.3991 18.0129 15.3453 18.1784 15.3731 18.3406L15.9432 21.6646C16.0133 22.073 15.5845 22.3845 15.2177 22.1917L12.2326 20.6223C12.087 20.5457 11.913 20.5457 11.7673 20.6223L8.78221 22.1917C8.41541 22.3845 7.98666 22.073 8.05671 21.6646L8.62681 18.3406C8.65466 18.1784 8.60086 18.0129 8.48301 17.8981L6.06806 15.544C5.77126 15.2548 5.93506 14.7508 6.34516 14.6912L9.68256 14.2062C9.84541 14.1826 9.98621 14.0803 10.0591 13.9327L11.5516 10.9085Z" fill="#E4FBF2" stroke="#01321D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M18 2.5H6V7.5L12 10L18 7.5V2.5Z" fill="#E4FBF2" stroke="#01321D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1755_13994">
+<rect width="24" height="24" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
+</svg>
